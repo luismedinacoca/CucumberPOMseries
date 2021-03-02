@@ -1,0 +1,5 @@
+parallel\GeneralHook.class
+parallel\LoginPageSteps.class
+testRunners\myTestRunner.class
+parallel\AccountPageSteps.class
+parallel\ParallelRun.class
